@@ -1,12 +1,22 @@
 class Solution {
     public int findUnsortedSubarray(int[] nums) {
-        int[] arr = nums.clone();
-        Arrays.sort(arr);
-        int i = 0;
-        int j = nums.length - 1;
-        while(i < nums.length && nums[i] == arr[i]) i++;
-        while(j >= 0 && nums[j] == arr[j]) j--;
-        if(i > j) return 0;
-        return j - i + 1;
+        int n = nums.length;
+        int left = -1, right = -1;
+        int max = nums[0];
+        for (int i = 1; i < n; i++) {
+            max = Math.max(max, nums[i]);
+            if (nums[i] < max) {
+                right = i;
+            }
+        }
+        if (right == -1) return 0;
+        int min = nums[n - 1];
+        for (int i = n - 2; i >= 0; i--) {
+            min = Math.min(min, nums[i]);
+            if (nums[i] > min) {
+                left = i;
+            }
+        }
+        return right - left + 1;
     }
 }
