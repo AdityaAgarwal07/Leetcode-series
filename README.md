@@ -62,4 +62,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0023-merge-k-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0062-unique-paths) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
