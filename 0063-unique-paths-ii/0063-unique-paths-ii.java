@@ -1,19 +1,16 @@
 class Solution {
-    int m;
-    int n;
-    int[][] dp;
     public int uniquePathsWithObstacles(int[][] nums) {
-        m = nums.length;
-        n = nums[0].length;
-        dp = new int[m][n];
-        for(int[] arr : dp) Arrays.fill(arr, -1);
-        return find(nums, 0, 0);
-    }
-    private int find(int[][] nums, int i, int j){
-        if(i >= m || j >= n) return 0;
-        if(nums[i][j] == 1) return 0;
-        if(i == m - 1 && j == n - 1) return 1;
-        if(dp[i][j] != -1) return dp[i][j];
-        return dp[i][j] = find(nums, i + 1, j) + find(nums, i, j + 1);
+        int m = nums.length;
+        int n = nums[0].length;
+        if(nums[m - 1][n - 1] == 1) return 0;
+        int[][] dp = new int[m][n];
+        dp[m - 1][n - 1] = 1;
+        for(int i = m - 1; i >= 0; i--){
+            for(int j = n - 1; j >= 0; j--){
+                if((i == m - 1 && j == n - 1) || nums[i][j] == 1) continue;
+                dp[i][j] = ((i + 1 < m) ? dp[i + 1][j] : 0) + ((j + 1 < n) ? dp[i][j + 1] : 0);
+            }
+        }
+        return dp[0][0];
     }
 }
