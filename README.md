@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0424-longest-repeating-character-replacement) |
 | [1143-longest-common-subsequence](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0345-reverse-vowels-of-a-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1768-merge-strings-alternately) |
