@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0283-move-zeroes) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0977-squares-of-a-sorted-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0414-third-maximum-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0931-minimum-falling-path-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0977-squares-of-a-sorted-array) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0414-third-maximum-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0977-squares-of-a-sorted-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0977-squares-of-a-sorted-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Monotonic Stack
 |  |
