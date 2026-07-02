@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1937-maximum-number-of-points-with-cost](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3665-twisted-mirror-path-count](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3665-twisted-mirror-path-count) |
 ## Stack
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0064-minimum-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1143-longest-common-subsequence) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1937-maximum-number-of-points-with-cost) |
+| [3665-twisted-mirror-path-count](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3665-twisted-mirror-path-count) |
 ## Combinatorics
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1937-maximum-number-of-points-with-cost](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3665-twisted-mirror-path-count](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3665-twisted-mirror-path-count) |
 ## Graph Theory
 |  |
 | ------- |
