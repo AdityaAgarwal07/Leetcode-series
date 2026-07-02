@@ -1,30 +1,24 @@
 class Solution {
-    public long maxPoints(int[][] points) {
-        int m = points.length;
-        int n = points[0].length;
-        long[] dp = new long[n];
-        for (int j = 0; j < n; j++) {
-            dp[j] = points[m - 1][j];
+    public long maxPoints(int[][] nums) {
+        int m = nums.length;
+        int n = nums[0].length;
+        long[] dp1 = new long[n];
+        long[] dp2 = new long[n];
+        for(int j = n - 1; j >= 0; j--){
+            dp2[j] = nums[m - 1][j];
         }
-        for (int i = m - 2; i >= 0; i--) {
-            long[] left = new long[n];
-            long[] right = new long[n];
-            left[0] = dp[0];
-            for (int j = 1; j < n; j++) {
-                left[j] = Math.max(left[j - 1] - 1, dp[j]);
+        for(int i = m - 2; i >= 0; i--){
+            for(int j = n - 1; j >= 0; j--){
+                long val = 0;
+                for(int jj = 0; jj < n; jj++){
+                    val = Math.max(val, dp2[jj] - Math.abs(j - jj));
+                }
+                dp1[j] = nums[i][j] + val;
             }
-            right[n - 1] = dp[n - 1];
-            for (int j = n - 2; j >= 0; j--) {
-                right[j] = Math.max(right[j + 1] - 1, dp[j]);
-            }
-            for (int j = 0; j < n; j++) {
-                dp[j] = points[i][j] + Math.max(left[j], right[j]);
-            }
+            dp2 = dp1.clone();
         }
         long ans = 0;
-        for (long x : dp) {
-            ans = Math.max(ans, x);
-        }
+        for(int j = 0; j < n; j++) ans = Math.max(ans, dp2[j]);
         return ans;
     }
 }
