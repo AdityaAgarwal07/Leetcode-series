@@ -1,16 +1,23 @@
 class Solution {
-    int[][] dp;
-    public int coinChange(int[] nums, int t) {
-        int n = nums.length;
-        dp = new int[n][t + 1];
-        for(int[] arr : dp) Arrays.fill(arr, -1);
-        int ans = find(nums, 0, t);
-        return (ans != 100000) ? ans : -1;
-    }
-    private int find(int[] nums, int i, int t){
-        if(t == 0) return 0;
-        if(i == nums.length || t < 0) return 100000;
-        if(dp[i][t] != -1) return dp[i][t];
-        return dp[i][t] = Math.min(1 + find(nums, i, t - nums[i]), find(nums, i + 1, t));
+    public int coinChange(int[] coins, int amount) {
+        int n = coins.length;
+        int INF = 1000000;
+        int[][] dp = new int[n][amount + 1];
+        for (int j = 1; j <= amount; j++) {
+            if (j % coins[0] == 0)
+                dp[0][j] = j / coins[0];
+            else
+                dp[0][j] = INF;
+        }
+
+        for (int i = 1; i < n; i++) {
+            for (int j = 1; j <= amount; j++) {
+                dp[i][j] = dp[i - 1][j];
+                if (j >= coins[i]) {
+                    dp[i][j] = Math.min(dp[i][j], 1 + dp[i][j - coins[i]]);
+                }
+            }
+        }
+        return dp[n - 1][amount] >= INF ? -1 : dp[n - 1][amount];
     }
 }
