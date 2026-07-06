@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0014-longest-common-prefix) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0424-longest-repeating-character-replacement) |
 | [0925-long-pressed-name](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0925-long-pressed-name) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0016-3sum-closest) |
 | [0063-unique-paths-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0064-minimum-path-sum) |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0509-fibonacci-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
