@@ -10,6 +10,7 @@ class Solution {
                 if(aa(ls.get(0), nums[i])){
                     b = true;
                     ls.add(nums[i]);
+                    break;
                 }
             }
             if(b) continue;
