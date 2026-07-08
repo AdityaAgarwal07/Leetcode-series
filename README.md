@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0049-group-anagrams) |
+| [0387-first-unique-character-in-a-string](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0115-distinct-subsequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0516-longest-palindromic-subsequence) |
 | [0925-long-pressed-name](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0925-long-pressed-name) |
@@ -253,4 +255,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0258-add-digits) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
