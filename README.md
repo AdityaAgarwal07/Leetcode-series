@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1768-merge-strings-alternately) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2942-find-words-containing-character](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3019-number-of-changing-keys) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2706-buy-two-chocolates) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2942-find-words-containing-character](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2942-find-words-containing-character) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2974-minimum-number-game](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2974-minimum-number-game) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
