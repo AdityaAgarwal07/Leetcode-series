@@ -1,23 +1,22 @@
 class Solution {
-    public boolean canPlaceFlowers(int[] nums, int t) {
-        int ans = 0;
-        int nn = nums.length;
+    public boolean canPlaceFlowers(int[] nums, int n) {
         int i = 0;
+        int nn = nums.length;
         while(i < nn){
-            if(nums[i] == 1) i += 2;
-            else{
+            if(nums[i] == 1){
+                i += 2;
+            }else{
                 if(i + 1 < nn && nums[i + 1] == 0){
-                    t--;
+                    n--;
                     i += 2;
+                }else if(i == nn - 1){
+                    n--;
+                    break;
                 }else{
-                    if(i == nn - 1){
-                        t--;
-                        break;
-                    }
                     i++;
                 }
             }
         }
-        return t <= 0;
+        return n <= 0;
     }
 }
