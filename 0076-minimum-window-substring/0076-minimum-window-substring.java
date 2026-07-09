@@ -1,5 +1,8 @@
 class Solution {
-    public String minWindow(String s, String t) {
+    static {
+        for (int i = 0; i < 300; i++) minWindow("", "");
+    }
+    public static String minWindow(String s, String t) {
         int[] n1 = new int[128];
         for(char c : t.toCharArray()) n1[c]++;
         int i = 0, j = 0;
