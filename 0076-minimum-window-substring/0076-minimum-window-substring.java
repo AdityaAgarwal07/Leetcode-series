@@ -5,20 +5,19 @@ class Solution {
         int i = 0, j = 0;
         int ans = Integer.MAX_VALUE;
         String ss = null;
+        int nn = t.length();
         while(j < s.length()){
-            n1[s.charAt(j++)]--;
-            while(aa(n1)){
+            if(n1[s.charAt(j++)]-- > 0) nn--;
+            while(nn == 0){
                 if(j - i < ans){
                     ans = j - i;
                     ss = s.substring(i, j);
                 }
-                n1[s.charAt(i++)]++;
+                if(++n1[s.charAt(i++)] > 0){
+                    nn++;
+                }
             }
         }
         return (ss != null) ? ss : "";
-    }
-    private boolean aa(int[] n1){
-        for(int n : n1) if(n > 0) return false;
-        return true;
     }
 }
