@@ -5,22 +5,30 @@ class Solution {
     public boolean isMatch(String s, String t) {
         n = s.length();
         m = t.length();
-        dp = new Boolean[n][m];
-        return find(s, t, 0 , 0);
-    }
-    private boolean find(String s, String t, int i, int j){
-        if(i == n && j == m) return true;
-        if(j == m) return false;
-        if(i == n){
-            while(j < m && t.charAt(j) == '*') j++;
-            if(j == m) return true;
-            return false;
+        dp = new Boolean[n + 1][m + 1];
+        dp[0][0] = true;
+        for(int i = 1; i <= n; i++){
+            dp[i][0] = false;
         }
-        if(dp[i][j] != null) return dp[i][j];
-        if(s.charAt(i) == t.charAt(j) || t.charAt(j) == '?') return dp[i][j] =  find(s, t, i + 1, j + 1);
-        if(t.charAt(j) == '*'){
-            return dp[i][j] = find(s, t, i + 1, j) || find(s, t, i, j + 1);
+        int jj = 1;
+        while(jj <= m && t.charAt(jj - 1) == '*'){
+            dp[0][jj] = true;
+            jj++;
         }
-        return dp[i][j] = false;
+        while(jj <= m){
+            dp[0][jj] = false;
+            jj++;
+        }
+        for(int i = 1; i <= n; i++){
+            for(int j = 1; j <= m; j++){
+                if(s.charAt(i - 1) == t.charAt(j - 1) || t.charAt(j - 1) == '?') dp[i][j] = dp[i - 1][j - 1];
+                else if(t.charAt(j - 1) == '*'){
+                    dp[i][j] = dp[i - 1][j] || dp[i][j - 1];
+                }else{
+                    dp[i][j] = false;
+                }
+            }
+        }
+        return dp[n][m];
     }
 }
