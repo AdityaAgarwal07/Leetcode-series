@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0076-minimum-window-substring) |
+| [0205-isomorphic-strings](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0424-longest-repeating-character-replacement) |
 | [0929-unique-email-addresses](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0929-unique-email-addresses) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0115-distinct-subsequences) |
+| [0205-isomorphic-strings](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0424-longest-repeating-character-replacement) |
