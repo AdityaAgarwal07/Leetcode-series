@@ -1,18 +1,18 @@
 class Solution {
     int n;
-    Integer[][] dp;
+    int[][] dp;
     public int maxProfit(int[] nums) {
         n = nums.length;
-        dp = new Integer[n][2];
-        return find(nums, 0, true);
-    }
-    private int find(int[] nums, int i, boolean aa){
-        if(i == n) return 0;
-        int t = (aa) ? 1 : 0;
-        if(dp[i][t] != null) return dp[i][t];
-        if(aa){
-            return dp[i][t] = Math.max(find(nums, i + 1, false) - nums[i], find(nums, i + 1, aa));
+        dp = new int[n][2];
+        int ans = 0;
+        dp[0][0] = -nums[0];
+        for(int i = 1; i < n; i++){
+            for(int j = 0; j < 2; j++){
+                if(j == 0) dp[i][j] = Math.max(dp[i - 1][1] - nums[i], dp[i - 1][j]);
+                else dp[i][j] = Math.max(dp[i - 1][0] + nums[i], dp[i - 1][j]);
+                if(j == 1) ans = Math.max(ans, dp[i][j]);
+            }
         }
-        return dp[i][t] = Math.max(find(nums, i + 1, true) + nums[i], find(nums, i + 1, aa));
+        return ans;
     }
 }
