@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1768-merge-strings-alternately](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1768-merge-strings-alternately) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Array
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3454-separate-squares-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3454-separate-squares-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3620-network-recovery-pathways) |
 | [3665-twisted-mirror-path-count](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3665-twisted-mirror-path-count) |
 ## Stack
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0881-boats-to-save-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2706-buy-two-chocolates](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2706-buy-two-chocolates) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2974-minimum-number-game](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3024-type-of-triangle) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1301-number-of-paths-with-max-score) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1937-maximum-number-of-points-with-cost) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3620-network-recovery-pathways) |
 | [3665-twisted-mirror-path-count](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3665-twisted-mirror-path-count) |
 ## Combinatorics
@@ -215,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3454-separate-squares-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3454-separate-squares-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -249,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -320,4 +327,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1486-xor-operation-in-an-array) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
