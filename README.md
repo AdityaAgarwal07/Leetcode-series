@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0049-group-anagrams) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0283-move-zeroes) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0063-unique-paths-ii) |
