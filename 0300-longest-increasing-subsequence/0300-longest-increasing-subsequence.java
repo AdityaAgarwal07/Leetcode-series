@@ -10,23 +10,13 @@ class Solution {
                 dp[j++] = nums[i];
                 ans++;
             }else{
-                int nn = find(dp, 0, j - 1, nums[i]);
-                dp[nn] = nums[i];
+                int nn = Arrays.binarySearch(dp, 0, j - 1, nums[i]);
+                if(nn < 0){
+                    dp[-(nn + 1)] = nums[i];
+                }
+                else dp[nn] = nums[i];
             }
         }
         return j;
-    }
-    private int find(int[] dp, int i, int j, int nn){
-        while(i <= j){
-            int m = i + (j - i) / 2;
-            if(dp[m] == nn){
-                return m;
-            }else if(dp[m] > nn){
-                j = m - 1;
-            }else{
-                i = m + 1;
-            }
-        }
-        return i;
     }
 }
