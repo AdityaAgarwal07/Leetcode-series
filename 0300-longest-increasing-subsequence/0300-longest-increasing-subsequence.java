@@ -1,22 +1,21 @@
 class Solution {
+    int n;
+    Integer[][] dp;
     public int lengthOfLIS(int[] nums) {
-        int n = nums.length;
-        int[] dp = new int[n];
-        dp[0] = nums[0];
-        int j = 1;
-        int ans = 1;
-        for(int i = 1; i < n; i++){
-            if(nums[i] > dp[j - 1]){
-                dp[j++] = nums[i];
-                ans++;
-            }else{
-                int nn = Arrays.binarySearch(dp, 0, j - 1, nums[i]);
-                if(nn < 0){
-                    dp[-(nn + 1)] = nums[i];
-                }
-                else dp[nn] = nums[i];
-            }
+        n = nums.length;
+        dp = new Integer[n][n];
+        int ans = 0;
+        for(int i = 0; i < n; i++){
+            ans = Math.max(ans, 1 + find(nums, i + 1, i));
         }
-        return j;
+        return ans;
+    }
+    private int find(int[] nums, int i, int j){
+        if(i >= n) return 0;
+        if(dp[i][j] != null) return dp[i][j];
+        int a = 0, b = 0;
+        if(nums[i] > nums[j]) a = 1 + find(nums, i + 1, i);
+        b = find(nums, i + 1, j);
+        return dp[i][j] = Math.max(a, b);
     }
 }
