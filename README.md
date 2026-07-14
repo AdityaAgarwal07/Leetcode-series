@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0860-lemonade-change](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0881-boats-to-save-people) |
 | [0929-unique-email-addresses](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0929-unique-email-addresses) |
 | [0931-minimum-falling-path-sum](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0931-minimum-falling-path-sum) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0860-lemonade-change](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0881-boats-to-save-people) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2486-append-characters-to-string-to-make-subsequence) |
