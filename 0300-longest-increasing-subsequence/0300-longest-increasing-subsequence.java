@@ -1,21 +1,21 @@
 class Solution {
     int n;
-    int[] dp;
+    Integer[][] dp;
     public int lengthOfLIS(int[] nums) {
         n = nums.length;
-        dp = new int[n + 1];
-        int ans = 1;
-        for (int i = n - 1; i >= 0; i--) {
-            for (int j = n - 1; j >= 0; j--) {
-                int a = 0, b;
-                if (nums[i] > nums[j]) {
-                    a = 1 + dp[i];
-                }
-                b = dp[j];
-                dp[j] = Math.max(a, b);
-            }
-            ans = Math.max(ans, 1 + dp[i]);
+        dp = new Integer[n][n];
+        int ans = 0;
+        for(int i = 0; i < n; i++){
+            ans = Math.max(ans, 1 + find(nums, i + 1, i));
         }
         return ans;
+    }
+    private int find(int[] nums, int i, int j){
+        if(i == n) return 0;
+        if(dp[i][j] != null) return dp[i][j];
+        int a = 0, b;
+        if(nums[i] > nums[j]) a = 1 + find(nums, i + 1, i);
+        b = find(nums, i + 1, j);
+        return dp[i][j] = Math.max(a, b);
     }
 }
