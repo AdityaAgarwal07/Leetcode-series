@@ -1,7 +1,8 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
-        int n = nums.length, ans = 0;
+        int n = nums.length;
         int[][] dp = new int[n + 1][n + 1];
+        int ans = 0, val = -1;
         for(int i = n - 1; i >= 0; i--){
             for(int j = n - 1; j >= 0; j--){
                 int a = 0, b;
