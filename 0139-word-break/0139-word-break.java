@@ -1,15 +1,15 @@
 class Solution {
-    Boolean[] dp;
     public boolean wordBreak(String s, List<String> nums) {
-        dp = new Boolean[s.length()];
-        return find(s, nums, 0);
-    }
-    private boolean find(String s, List<String> nums, int i){
-        if(i == s.length()) return true;
-        if(dp[i] != null) return dp[i];
-        for(String ss : nums){
-            if(i + ss.length() <= s.length() && s.startsWith(ss, i)) if(find(s, nums, i + ss.length())) return dp[i] = true;
+        int n = s.length();
+        boolean[] dp = new boolean[n + 1];
+        dp[n] = true;
+        for(int i = n - 1; i >= 0; i--){
+            boolean aa = false;
+            for(String ss : nums){
+                if(i + ss.length() <= n && s.startsWith(ss, i)) if(dp[i + ss.length()]) aa = true;
+            }
+            dp[i] = aa;
         }
-        return dp[i] = false;
+        return dp[0];
     }
 }
