@@ -10,8 +10,7 @@ class Solution {
     }
     private int find(int[][] nums, int j, int ii, int jj){
         int i = ii + jj - j;
-        if(i >= n || j >= m || ii >= n || jj >= m) return Integer.MIN_VALUE;
-        if(i + j != ii + jj) return Integer.MIN_VALUE;
+        if(i < 0 || i >= n || j >= m || ii >= n || jj >= m) return Integer.MIN_VALUE;
         if(nums[i][j] == -1 || nums[ii][jj] == -1) return Integer.MIN_VALUE;
         if(i == n - 1 && j == m - 1 && ii == n - 1 && jj == m - 1) return nums[i][j];
         if(dp[j][ii][jj] != null) return dp[j][ii][jj];
