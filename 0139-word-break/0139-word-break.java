@@ -6,7 +6,12 @@ class Solution {
         for(int i = n - 1; i >= 0; i--){
             boolean aa = false;
             for(String ss : nums){
-                if(i + ss.length() <= n && s.startsWith(ss, i)) if(dp[i + ss.length()]) aa = true;
+                if(i + ss.length() <= n && s.startsWith(ss, i)){ 
+                    if(dp[i + ss.length()]){
+                        aa = true;
+                        break;
+                    }
+                }
             }
             dp[i] = aa;
         }
