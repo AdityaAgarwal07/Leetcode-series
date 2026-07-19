@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0929-unique-email-addresses) |
 | [1048-longest-string-chain](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1048-longest-string-chain) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0881-boats-to-save-people) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Linked List
 |  |
 | ------- |
