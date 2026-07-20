@@ -1,35 +1,36 @@
 class Solution {
     public int calculate(String s) {
-        Stack<Integer> ss = new Stack<>();
-        int i = 0;
+        Stack<Integer> st = new Stack<>();
+        int ans = 0;
         char opr = '+';
-        while (i < s.length()) {
+        int i = 0;
+        while(i < s.length()){
             char c = s.charAt(i);
-            if (c == ' ') {
+            if(c == ' '){
                 i++;
                 continue;
-            }
-            if (Character.isDigit(c)) {
-                int num = 0;
-                while (i < s.length() && Character.isDigit(s.charAt(i))) {
-                    num = num * 10 + (s.charAt(i) - '0');
+            }else if(Character.isDigit(c)){
+                int n = 0;
+                while(i < s.length() && Character.isDigit(c)){
+                    n = n * 10 + Integer.parseInt(c + "");
                     i++;
+                    if(i < s.length()) c = s.charAt(i);
                 }
-                if (opr == '+')
-                    ss.push(num);
-                else if (opr == '-')
-                    ss.push(-num);
-                else if (opr == '*')
-                    ss.push(ss.pop() * num);
-                else
-                    ss.push(ss.pop() / num);
-            } else {
+                if(opr == '+'){
+                    st.push(n);
+                }else if(opr == '-'){
+                    st.push(-n);
+                }else if(opr == '*'){
+                    st.push(n * st.pop());
+                }else{
+                    st.push(st.pop() / n);
+                }
+            }else{
                 opr = c;
                 i++;
             }
         }
-        int ans = 0;
-        while (!ss.isEmpty()) ans += ss.pop();
+        while(!st.isEmpty()) ans += st.pop();
         return ans;
     }
 }
