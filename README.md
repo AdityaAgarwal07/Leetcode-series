@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1004-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1048-longest-string-chain) |
+| [1260-shift-2d-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1301-number-of-paths-with-max-score) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0741-cherry-pickup](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0931-minimum-falling-path-sum) |
+| [1260-shift-2d-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1463-cherry-pickup-ii) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1937-maximum-number-of-points-with-cost) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0258-add-digits) |
+| [1260-shift-2d-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1260-shift-2d-grid) |
 | [2974-minimum-number-game](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2974-minimum-number-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
