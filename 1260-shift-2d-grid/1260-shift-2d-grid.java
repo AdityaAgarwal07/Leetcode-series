@@ -4,7 +4,7 @@ class Solution {
         int m = nums[0].length;
         int s = n * m;
         k %= s;
-        int start = (s - k) % s;
+        int start = s - k;
         List<Integer> aa = new ArrayList<>();
         for (int[] arr : nums) for (int nn : arr) aa.add(nn);
         List<List<Integer>> ans = new ArrayList<>();
