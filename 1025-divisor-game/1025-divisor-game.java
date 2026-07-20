@@ -1,17 +1,14 @@
 class Solution {
-    Boolean[] dp;
     public boolean divisorGame(int n) {
-        dp = new Boolean[n + 1];
-        return find(n);
-    }
-    private boolean find(int n) {
-        if (n == 1) return false;
-        if(dp[n] != null) return dp[n];
-        for (int i = 1; i < n; i++) {
-            if (n % i == 0 && !find(n - i)) {
-                return dp[n] = true;
+        boolean[] dp = new boolean[n + 1];
+        for(int i = 2; i <= n; i++){
+            for(int j = 1; j < i; j++){
+                if(i % j == 0 && !dp[i - j]){
+                    dp[i] = true;
+                    break;
+                }
             }
         }
-        return dp[n] = false;
+        return dp[n];
     }
 }
