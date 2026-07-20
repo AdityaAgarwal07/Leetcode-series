@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3620-network-recovery-pathways) |
 | [3665-twisted-mirror-path-count](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3665-twisted-mirror-path-count) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1291-sequential-digits) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Segment Tree
 |  |
 | ------- |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1486-xor-operation-in-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Counting Sort
 |  |
 | ------- |
