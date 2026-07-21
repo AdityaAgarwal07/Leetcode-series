@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1004-max-consecutive-ones-iii) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0222-count-complete-tree-nodes) |
 | [1486-xor-operation-in-an-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1486-xor-operation-in-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0222-count-complete-tree-nodes) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0222-count-complete-tree-nodes) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
