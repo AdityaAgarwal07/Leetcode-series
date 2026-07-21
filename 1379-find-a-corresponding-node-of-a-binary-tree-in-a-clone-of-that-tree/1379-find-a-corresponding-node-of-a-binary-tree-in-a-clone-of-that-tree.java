@@ -13,7 +13,7 @@ class Solution {
         return find(a, b, t);
     }
     private TreeNode find(TreeNode a, TreeNode b, TreeNode t){
-        if(a.val == t.val) return b;
+        if(a == t) return b;
         TreeNode aa = (a.left != null) ? find(a.left, b.left, t) : null;
         TreeNode bb = (a.right != null) ? find(a.right, b. right, t) : null;
         return (aa == null) ? bb : aa;
