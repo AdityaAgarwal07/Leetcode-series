@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0347-top-k-frequent-elements) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0368-largest-divisible-subset) |
