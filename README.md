@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3454-separate-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3620-network-recovery-pathways) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1291-sequential-digits) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Segment Tree
 |  |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0222-count-complete-tree-nodes) |
 | [1486-xor-operation-in-an-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1486-xor-operation-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Counting Sort
