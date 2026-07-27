@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0115-distinct-subsequences) |
+| [0132-palindrome-partitioning-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0140-word-break-ii) |
 | [0205-isomorphic-strings](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0205-isomorphic-strings) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0132-palindrome-partitioning-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0152-maximum-product-subarray) |
