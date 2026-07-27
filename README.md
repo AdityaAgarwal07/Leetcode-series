@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1408-string-matching-in-an-array) |
 | [1463-cherry-pickup-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1463-cherry-pickup-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1550-three-consecutive-odds](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1550-three-consecutive-odds) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2706-buy-two-chocolates](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2706-buy-two-chocolates) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0347-top-k-frequent-elements) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2974-minimum-number-game](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2974-minimum-number-game) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3286-find-a-safe-walk-through-a-grid) |
