@@ -1,14 +1,14 @@
 class Solution {
     Integer[] dp;
     int n;
-    Boolean[][] aa;
+    boolean[][] aa;
     public int minCut(String s) {
         n = s.length();
         dp = new Integer[n];
-        aa = new Boolean[n][n];
-        for (int i = 0; i < n; i++) {
+        aa = new boolean[n][n];
+        for (int i = n - 1; i >= 0; i--) {
             for (int j = i; j < n; j++) {
-                aaa(s, i, j);
+                aa[i][j] = s.charAt(i) == s.charAt(j) && (j - i < 2 || aa[i + 1][j - 1]);
             }
         }
         return find(s, 0, n - 1);
@@ -17,6 +17,7 @@ class Solution {
         if (i > j) return -1;
         if (i == j) return 0;
         if (dp[i] != null) return dp[i];
+        if (aa[i][j]) return dp[i] = 0;
         int ans = Integer.MAX_VALUE;
         for (int k = i; k < n; k++) {
             if (aa[i][k]) {
@@ -25,11 +26,4 @@ class Solution {
         }
         return dp[i] = ans;
     }
-    private boolean aaa(String s, int i, int j){
-    if(i > j) return true;
-    if(i == j) return aa[i][j] = true;
-    if(aa[i][j] != null) return aa[i][j];
-    if(s.charAt(i) != s.charAt(j)) return aa[i][j] = false;
-    return aa[i][j] = aaa(s, i + 1, j - 1);
-}
 }
