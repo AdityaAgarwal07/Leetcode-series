@@ -3,22 +3,20 @@ class Solution {
         int[] nums = new int[26];
         for (char c : s.toCharArray()) nums[c - 'a']++;
         StringBuilder a = new StringBuilder();
-        StringBuilder b = new StringBuilder();
+        char mid = 0;
         for (int i = 0; i < 26; i++) {
             char c = (char) (i + 'a');
-            while (nums[i] >= 2) {
+            for (int j = 0; j < nums[i] / 2; j++)
                 a.append(c);
-                b.insert(0, c);
-                nums[i] -= 2;
-            }
+            if (nums[i] % 2 == 1)
+                mid = c;
         }
-        for (int i = 0; i < 26; i++) {
-            if (nums[i] == 1) {
-                a.append((char) (i + 'a'));
-                break;
-            }
-        }
-        a.append(b);
-        return a.toString();
+
+        StringBuilder ans = new StringBuilder(a);
+        if (mid != 0)
+            ans.append(mid);
+        ans.append(new StringBuilder(a).reverse());
+
+        return ans.toString();
     }
 }
