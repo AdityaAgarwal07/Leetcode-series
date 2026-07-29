@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0085-maximal-rectangle) |
 | [0227-basic-calculator-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0227-basic-calculator-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0085-maximal-rectangle) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Linked List
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -393,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0085-maximal-rectangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0741-cherry-pickup](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0931-minimum-falling-path-sum) |
