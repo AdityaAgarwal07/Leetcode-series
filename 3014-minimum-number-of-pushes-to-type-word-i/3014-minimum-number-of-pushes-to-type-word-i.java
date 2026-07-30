@@ -8,8 +8,8 @@ class Solution {
                 val++;
                 i += 8;
             }else{
-                ans += val;
-                i++;
+                ans += val * (n - i);
+                break;
             }
         }
         return ans;
