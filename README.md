@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0414-third-maximum-number) |
+| [0486-predict-the-winner](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0518-coin-change-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0605-can-place-flowers) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0258-add-digits) |
 | [0368-largest-divisible-subset](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1025-divisor-game) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0518-coin-change-ii) |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0044-wildcard-matching) |
+| [0486-predict-the-winner](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0509-fibonacci-number) |
 ## Trie
 |  |
@@ -567,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1025-divisor-game) |
 ## Tree
 |  |
