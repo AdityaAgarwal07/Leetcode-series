@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0617-merge-two-binary-trees) |
+| [0872-leaf-similar-trees](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0938-range-sum-of-bst) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0617-merge-two-binary-trees) |
+| [0872-leaf-similar-trees](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0938-range-sum-of-bst) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2236-root-equals-sum-of-children) |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0617-merge-two-binary-trees) |
+| [0872-leaf-similar-trees](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0938-range-sum-of-bst) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2236-root-equals-sum-of-children) |
