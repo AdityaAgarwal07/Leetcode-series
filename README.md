@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -611,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -618,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0111-minimum-depth-of-binary-tree) |
