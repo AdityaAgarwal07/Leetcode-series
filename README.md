@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0938-range-sum-of-bst) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0938-range-sum-of-bst) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2236-root-equals-sum-of-children) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0938-range-sum-of-bst) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2236-root-equals-sum-of-children) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Design
 |  |
 | ------- |
