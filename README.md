@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0516-longest-palindromic-subsequence) |
+| [0606-construct-string-from-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0606-construct-string-from-binary-tree) |
 | [0680-valid-palindrome-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0680-valid-palindrome-ii) |
 | [0925-long-pressed-name](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0929-unique-email-addresses) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0606-construct-string-from-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0938-range-sum-of-bst) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0606-construct-string-from-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0938-range-sum-of-bst) |
@@ -653,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0938-range-sum-of-bst) |
