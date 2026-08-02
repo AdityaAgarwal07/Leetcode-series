@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0257-binary-tree-paths) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0257-binary-tree-paths) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2236-root-equals-sum-of-children) |
