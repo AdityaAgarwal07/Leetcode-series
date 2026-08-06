@@ -1,205 +1,131 @@
 class Solution {
-    private static final Map<Integer, Map<Integer, Integer>> FACTOR_COUNTS = Map.of(
-            0, Map.of(),
-            1, Map.of(),
-            2, Map.of(2, 1),
-            3, Map.of(3, 1),
-            4, Map.of(2, 2),
-            5, Map.of(5, 1),
-            6, Map.of(2, 1, 3, 1),
-            7, Map.of(7, 1),
-            8, Map.of(2, 3),
-            9, Map.of(3, 2));
+    int primes[] = new int[] { 2, 3, 5, 7 };
+    int maxPrime = primes[primes.length - 1];
 
     public String smallestNumber(String num, long t) {
-        Pair<Map<Integer, Integer>, Boolean> result = getPrimeCount(t);
-        Map<Integer, Integer> needPrime = result.getKey();
-        boolean possible = result.getValue();
-
-        if (!possible)
-            return "-1";
-
-        Map<Integer, Integer> needDigit = getFactorCount(needPrime);
-
-        if (sumValues(needDigit) > num.length())
-            return construct(needDigit);
-
-        Map<Integer, Integer> prefixPrime = getPrimeCount(num);
-
-        int zeroIndex = num.indexOf('0');
-        if (zeroIndex == -1) {
-            zeroIndex = num.length();
-            if (isSubset(needPrime, prefixPrime))
-                return num;
-        }
-
-        for (int i = num.length() - 1; i >= 0; i--) {
-            int digit = num.charAt(i) - '0';
-
-            prefixPrime = subtract(prefixPrime, FACTOR_COUNTS.get(digit));
-
-            int remainingSpace = num.length() - 1 - i;
-
-            if (i > zeroIndex)
-                continue;
-
-            for (int newDigit = digit + 1; newDigit <= 9; newDigit++) {
-                Map<Integer, Integer> needAfterReplace = getFactorCount(
-                        subtract(
-                                subtract(needPrime, prefixPrime),
-                                FACTOR_COUNTS.get(newDigit)));
-
-                if (sumValues(needAfterReplace) <= remainingSpace) {
-                    int ones = remainingSpace - sumValues(needAfterReplace);
-
-                    return num.substring(0, i)
-                            + newDigit
-                            + "1".repeat(ones)
-                            + construct(needAfterReplace);
-                }
-            }
-        }
-
-        Map<Integer, Integer> needAfterExtend = getFactorCount(needPrime);
-
-        return "1".repeat(num.length() + 1 - sumValues(needAfterExtend))
-                + construct(needAfterExtend);
-    }
-
-    // Returns the prime factor count of t and whether it only contains 2,3,5,7.
-    private Pair<Map<Integer, Integer>, Boolean> getPrimeCount(long t) {
-        Map<Integer, Integer> primeFreq = new HashMap<>();
-        primeFreq.put(2, 0);
-        primeFreq.put(3, 0);
-        primeFreq.put(5, 0);
-        primeFreq.put(7, 0);
-
-        int[] primes = {2, 3, 5, 7};
+        int primeCount[] = new int[maxPrime + 1];
+        int numLength = num.length();
+        int minLength;
+        int firstZeroIndexFromLeft = 0;
 
         for (int prime : primes) {
             while (t % prime == 0) {
                 t /= prime;
-                primeFreq.put(prime, primeFreq.get(prime) + 1);
+                primeCount[prime]++;
             }
         }
 
-        return new Pair<>(primeFreq, t == 1);
-    }
+        if (t != 1) {
+            return "-1";
+        }
 
-    // Returns the prime factor count of all digits in num.
-    private Map<Integer, Integer> getPrimeCount(String num) {
-        Map<Integer, Integer> primeFreq = new HashMap<>();
-        primeFreq.put(2, 0);
-        primeFreq.put(3, 0);
-        primeFreq.put(5, 0);
-        primeFreq.put(7, 0);
+        minLength = getMinLength(primeCount);
 
-        for (char ch : num.toCharArray()) {
-            Map<Integer, Integer> digitPrime = FACTOR_COUNTS.get(ch - '0');
+        if (numLength < minLength) {
+            return buildSuffix(primeCount, minLength, new char[minLength]);
+        }
 
-            for (Map.Entry<Integer, Integer> entry : digitPrime.entrySet()) {
-                int prime = entry.getKey();
-                int freq = entry.getValue();
-                primeFreq.put(prime, primeFreq.get(prime) + freq);
+        char[] result = new char[numLength + 1];
+
+        for (int i = 0; firstZeroIndexFromLeft < numLength
+                && (result[++i] = num.charAt(firstZeroIndexFromLeft)) != '0'; firstZeroIndexFromLeft++) {
+            logNum(primeCount, result[i], -1);
+        }
+
+        if (getMinLength(primeCount) == 0) {
+            if (firstZeroIndexFromLeft == numLength) {
+                return num;
+            }
+            Arrays.fill(result, ++firstZeroIndexFromLeft, result.length, '1');
+            return new String(result, 1, numLength);
+        }
+
+        for (int last = numLength - 1, end = Math.min(firstZeroIndexFromLeft, last); end >= 0; end--) {
+            for (logNum(primeCount, result[end + 1], 1); ++result[end + 1] <= '9'; logNum(primeCount, result[end + 1], 1)) {
+                logNum(primeCount, result[end + 1], -1);
+                if (getMinLength(primeCount) <= last - end) {
+                    return buildSuffix(primeCount, last - end, result);
+                }
             }
         }
 
-        return primeFreq;
+        return buildSuffix(primeCount, result.length, result);
     }
 
-    private Map<Integer, Integer> getFactorCount(Map<Integer, Integer> primeFreq) {
-        int count8 = primeFreq.get(2) / 3;
-        int rem2 = primeFreq.get(2) % 3;
-
-        int count9 = primeFreq.get(3) / 2;
-        int count3 = primeFreq.get(3) % 2;
-
-        int count4 = rem2 / 2;
-        int count2 = rem2 % 2;
-
-        int count6 = 0;
-
-        if (count2 == 1 && count3 == 1) {
-            count2 = 0;
-            count3 = 0;
-            count6 = 1;
+    private void logNum(int[] primeCount, int num, int value) {
+        if (num < '2') {
+            return;
         }
 
-        if (count3 == 1 && count4 == 1) {
-            count2 = 1;
-            count6 = 1;
-            count3 = 0;
-            count4 = 0;
+        if (num == '9') {
+            primeCount[3] += value << 1;
+        } else if (num == '4') {
+            primeCount[2] += value << 1;
+        } else if (num == '8') {
+            primeCount[2] += value * 3;
+        } else if (num == '6') {
+            primeCount[2] += value;
+            primeCount[3] += value;
+        } else {
+            primeCount[num - '0'] += value;
         }
-
-        Map<Integer, Integer> digitFreq = new HashMap<>();
-        digitFreq.put(2, count2);
-        digitFreq.put(3, count3);
-        digitFreq.put(4, count4);
-        digitFreq.put(5, primeFreq.get(5));
-        digitFreq.put(6, count6);
-        digitFreq.put(7, primeFreq.get(7));
-        digitFreq.put(8, count8);
-        digitFreq.put(9, count9);
-
-        return digitFreq;
     }
 
-    private String construct(Map<Integer, Integer> digitFreq) {
-        StringBuilder ans = new StringBuilder();
+    private String buildSuffix(int[] primeCount, int targetLength, char[] result) {
+        int index = result.length;
 
-        for (int digit = 2; digit <= 9; digit++) {
-            ans.append(String.valueOf(digit).repeat(digitFreq.get(digit)));
+        while (primeCount[3] > 1) {
+            primeCount[3] -= 2;
+            result[--index] = '9';
         }
 
-        return ans.toString();
+        while (primeCount[2] > 2) {
+            primeCount[2] -= 3;
+            result[--index] = '8';
+        }
+
+        while (primeCount[7]-- > 0) {
+            result[--index] = '7';
+        }
+
+        if (primeCount[2] > 0 && primeCount[3] > 0) {
+            result[--index] = '6';
+            primeCount[2]--;
+            primeCount[3]--;
+        }
+
+        while (primeCount[5]-- > 0) {
+            result[--index] = '5';
+        }
+
+        while (primeCount[2] > 1) {
+            primeCount[2] -= 2;
+            result[--index] = '4';
+        }
+
+        while (primeCount[3] > 0) {
+            primeCount[3]--;
+            result[--index] = '3';
+        }
+
+        while (primeCount[2] > 0) {
+            primeCount[2]--;
+            result[--index] = '2';
+        }
+
+        while (index + targetLength != result.length) {
+            result[--index] = '1';
+        }
+
+        return targetLength == result.length ? new String(result) : new String(result, 1, result.length - 1);
     }
 
-    private boolean isSubset(Map<Integer, Integer> needPrime, Map<Integer, Integer> havePrime) {
-        for (Map.Entry<Integer, Integer> entry : needPrime.entrySet()) {
-            if (havePrime.get(entry.getKey()) < entry.getValue())
-                return false;
-        }
-        return true;
-    }
+    private int getMinLength(int[] primeCount) {
+        int count2 = Math.max(0, primeCount[2]);
+        int count3 = Math.max(0, primeCount[3]);
+        int count23 = (count3 & 1) + (count2 % 3);
 
-    private Map<Integer, Integer> subtract(Map<Integer, Integer> first, Map<Integer, Integer> second) {
-        Map<Integer, Integer> result = new HashMap<>(first);
-
-        for (Map.Entry<Integer, Integer> entry : second.entrySet()) {
-            int prime = entry.getKey();
-            int freq = entry.getValue();
-
-            result.put(prime, Math.max(0, result.get(prime) - freq));
-        }
-
-        return result;
-    }
-
-    private int sumValues(Map<Integer, Integer> map) {
-        int sum = 0;
-
-        for (int value : map.values())
-            sum += value;
-
-        return sum;
-    }
-
-    static class Pair<K, V> {
-        private final K key;
-        private final V value;
-
-        Pair(K key, V value) {
-            this.key = key;
-            this.value = value;
-        }
-
-        public K getKey() {
-            return key;
-        }
-
-        public V getValue() {
-            return value;
-        }
+        return (count3 >> 1) + (count2 / 3) + Math.max(0, primeCount[7]) + Math.max(0, primeCount[5])
+                + (count23 == 3 ? 2 : count23 > 0 ? 1 : 0);
     }
 }
