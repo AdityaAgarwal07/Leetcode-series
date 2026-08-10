@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1025-divisor-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1266-minimum-time-visiting-all-points) |
 | [1486-xor-operation-in-an-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1486-xor-operation-in-an-array) |
+| [1510-stone-game-iv](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1510-stone-game-iv) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1463-cherry-pickup-ii) |
+| [1510-stone-game-iv](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1668-maximum-repeating-substring](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1668-maximum-repeating-substring) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1025-divisor-game) |
+| [1510-stone-game-iv](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1510-stone-game-iv) |
 ## Tree
 |  |
 | ------- |
@@ -686,4 +689,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0572-subtree-of-another-tree) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
