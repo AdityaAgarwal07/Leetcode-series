@@ -1,22 +1,16 @@
 class Solution {
-    private Boolean[] f;
     public boolean winnerSquareGame(int n) {
-        f = new Boolean[n + 1];
-        return dfs(n);
-    }
-    private boolean dfs(int i) {
-        if (i <= 0) {
-            return false;
-        }
-        if (f[i] != null) {
-            return f[i];
-        }
-        int k = (int) Math.sqrt(i);
-        for (int j = 1; j <= k; j++) {
-            if (!dfs(i - j * j)) {
-                return f[i] = true;
+        boolean[] dp = new boolean[n + 1];
+        for(int i = 0; i <= n; i++) {
+            if(!dp[i]) {
+                for(int j = 1; i + j * j <= n; j++) {
+                    dp[i + j * j] = true;
+                }
+                if(dp[n]) {
+                    return true;
+                }
             }
         }
-        return f[i] = false;
+        return false;
     }
 }
