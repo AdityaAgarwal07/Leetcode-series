@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3312-sorted-gcd-pair-queries) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2942-find-words-containing-character](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2942-find-words-containing-character) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2974-minimum-number-game) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3024-type-of-triangle](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3024-type-of-triangle) |
