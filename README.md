@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2706-buy-two-chocolates](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2706-buy-two-chocolates) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2974-minimum-number-game](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2974-minimum-number-game) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-root-equals-sum-of-children](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -707,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-root-equals-sum-of-children](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Design
 |  |
 | ------- |
