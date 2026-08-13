@@ -14,21 +14,21 @@
  * }
  */
 class Solution {
+    int n;
+    int aa = -1;
     public int findBottomLeftValue(TreeNode root) {
-        if(root == null) return 0;
-        Queue<TreeNode> q = new ArrayDeque<>();
-        q.offer(root);
-        List<Integer> ans = new ArrayList<>();
-        while(!q.isEmpty()){
-            int n = q.size();
-            ans = new ArrayList<>();
-            while(n --> 0){
-                TreeNode node = q.poll();
-                ans.add(node.val);
-                if(node.left != null) q.offer(node.left);
-                if(node.right != null) q.offer(node.right);
+        find(root, 0);
+        return n;
+    }
+    private void find(TreeNode node, int a){
+        if(node == null) return;
+        if(node.left == null && node.right == null){
+            if(a > aa){
+                aa = a;
+                n = node.val;
             }
         }
-        return ans.get(0);
+        find(node.left, a + 1);
+        find(node.right, a + 1);
     }
 }
