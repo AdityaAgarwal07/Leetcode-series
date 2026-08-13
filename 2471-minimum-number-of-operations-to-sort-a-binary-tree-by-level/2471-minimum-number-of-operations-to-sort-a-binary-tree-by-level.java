@@ -20,10 +20,13 @@ class Solution {
         int ans = 0;
         while(!q.isEmpty()){
             int n = q.size();
-            List<Integer> nums = new ArrayList<>();
+            int i = 0;
+            int[][] nums = new int[n][2];
             while(n --> 0){
                 TreeNode node = q.poll();
-                nums.add(node.val);
+                nums[i][0] = node.val;
+                nums[i][1] = i;
+                i++;
                 if(node.left != null) q.offer(node.left);
                 if(node.right != null) q.offer(node.right);
             }
@@ -31,27 +34,22 @@ class Solution {
         }
         return ans;
     }
-    private int find(List<Integer> nums){
-        int n = nums.size();
-        int[][] arr = new int[n][2];
+    private int find(int[][] nums){
+        int n = nums.length;
+        Arrays.sort(nums, (a, b) -> a[0] - b[0]);
+        boolean[] val = new boolean[n];
+        int ans = 0;
         for(int i = 0; i < n; i++){
-            arr[i][0] = nums.get(i);  
-            arr[i][1] = i;            
-        }
-        Arrays.sort(arr, (a,b) -> a[0] - b[0]);
-        boolean[] vis = new boolean[n];
-            int swaps = 0;
-        for(int i = 0; i < n; i++){
-            if(vis[i] || arr[i][1] == i) continue;
-            int cycle = 0;
+            if(val[i] || nums[i][1] == i) continue;
             int j = i;
-            while(!vis[j]){
-                vis[j] = true;
-                j = arr[j][1];
-                cycle++;
+            int curr = 0;
+            while(!val[j]){
+                val[j] = true;
+                curr++;
+                j = nums[j][1];
             }
-            swaps += cycle - 1;
+            ans += curr - 1;
         }
-        return swaps;
+        return ans;
     }
 }
