@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1048-longest-string-chain) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1386-cinema-seat-allocation) |
+| [1656-design-an-ordered-stream](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1656-design-an-ordered-stream) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1550-three-consecutive-odds](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1550-three-consecutive-odds) |
 | [1563-stone-game-v](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1563-stone-game-v) |
+| [1656-design-an-ordered-stream](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1656-design-an-ordered-stream) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1937-maximum-number-of-points-with-cost) |
@@ -765,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0303-range-sum-query-immutable) |
+| [1656-design-an-ordered-stream](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1656-design-an-ordered-stream) |
 ## Geometry
 |  |
 | ------- |
@@ -802,4 +805,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Data Stream
+|  |
+| ------- |
+| [1656-design-an-ordered-stream](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1656-design-an-ordered-stream) |
 <!---LeetCode Topics End-->
