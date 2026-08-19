@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0929-unique-email-addresses) |
 | [1048-longest-string-chain](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1048-longest-string-chain) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1386-cinema-seat-allocation) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1301-number-of-paths-with-max-score) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1386-cinema-seat-allocation](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1386-cinema-seat-allocation) |
 | [1408-string-matching-in-an-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1408-string-matching-in-an-array) |
 | [1463-cherry-pickup-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1386-cinema-seat-allocation) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2029-stone-game-ix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -620,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0222-count-complete-tree-nodes) |
+| [1386-cinema-seat-allocation](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1486-xor-operation-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3514-number-of-unique-xor-triplets-ii) |
