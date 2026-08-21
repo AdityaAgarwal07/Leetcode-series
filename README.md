@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3024-type-of-triangle](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3312-sorted-gcd-pair-queries) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3024-type-of-triangle) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1004-max-consecutive-ones-iii) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3312-sorted-gcd-pair-queries) |
 | [3453-separate-squares-i](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3454-separate-squares-ii) |
@@ -605,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -631,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0222-count-complete-tree-nodes) |
 | [1386-cinema-seat-allocation](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1486-xor-operation-in-an-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3534-path-existence-queries-in-a-graph-ii) |
