@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0140-word-break-ii) |
+| [0171-excel-sheet-column-number](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0257-binary-tree-paths) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0062-unique-paths) |
+| [0171-excel-sheet-column-number](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0171-excel-sheet-column-number) |
 | [0227-basic-calculator-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0258-add-digits) |
 | [0368-largest-divisible-subset](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0368-largest-divisible-subset) |
