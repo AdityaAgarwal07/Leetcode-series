@@ -34,11 +34,21 @@ class Solution {
         return ans;
     }
     private void find(int i, int j){
-        if(i < 0 || j < 0 || i >= n || j >= m || nums[i][j] == 0 || vis[i][j]) return;
+        Stack<int[]> s = new Stack<>();
+        s.push(new int[]{i, j});
         vis[i][j] = true;
-        find(i - 1, j);
-        find(i + 1, j);
-        find(i, j - 1);
-        find(i, j + 1);
+        int[][] dir = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
+        while(!s.isEmpty()){
+            int[] curr = s.pop();
+            int a = curr[0];
+            int b = curr[1];
+            for(int[] d : dir){
+                int x = a + d[0];
+                int y = b + d[1];
+                if(x < 0 || y < 0 || x >= n || y >= m || nums[x][y] == 0 || vis[x][y]) continue;
+                vis[x][y] = true;
+                s.push(new int[]{x, y});
+            }
+        }
     }
 }
