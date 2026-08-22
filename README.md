@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0542-01-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0628-maximum-product-of-three-numbers) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0741-cherry-pickup) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0513-find-bottom-left-tree-value](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0513-find-bottom-left-tree-value) |
+| [0542-01-matrix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0733-flood-fill) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0542-01-matrix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0931-minimum-falling-path-sum) |
