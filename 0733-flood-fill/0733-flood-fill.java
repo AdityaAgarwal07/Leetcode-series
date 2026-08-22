@@ -1,24 +1,25 @@
 class Solution {
-    int c;
-    int m;
     int n;
-    int aa;
+    int m;
+    int c;
+    int val;
+    int[][] nums;
     public int[][] floodFill(int[][] nums, int i, int j, int c) {
+        if(nums[i][j] == c) return nums;
+        this.nums = nums;
         this.c = c;
-        aa = nums[i][j];
-        m = nums.length;
-        n = nums[0].length;
-        if(aa == c) return nums;
-        find(nums, i, j);
+        n = nums.length;
+        m = nums[0].length;
+        val = nums[i][j];
+        find(i, j);
         return nums;
     }
-
-    private void find(int[][] nums, int i, int j){
-        if(i >= m || j >= n || i < 0 || j < 0 || nums[i][j] != aa) return;
+    private void find(int i, int j){
+        if(i < 0 || j < 0 || i >= n || j >= m || nums[i][j] != val) return;
         nums[i][j] = c;
-        find(nums, i - 1, j);
-        find(nums, i + 1, j);
-        find(nums, i, j - 1);
-        find(nums, i, j + 1);
+        find(i - 1, j);
+        find(i + 1, j);
+        find(i, j - 1);
+        find(i, j + 1);
     }
 }
