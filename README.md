@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0283-move-zeroes) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2685-count-the-number-of-complete-components) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0741-cherry-pickup) |
@@ -546,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
