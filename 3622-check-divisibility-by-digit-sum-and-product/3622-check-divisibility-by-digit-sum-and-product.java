@@ -3,7 +3,7 @@ class Solution {
         int a = 0;
         int b = 1;
         for(char c : (n + "").toCharArray()){
-            int m = (int) c - '0';
+            int m = c - '0';
             a += m;
             b *= m;
         }
