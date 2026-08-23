@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1768-merge-strings-alternately](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1768-merge-strings-alternately) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1927-sum-game](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1927-sum-game) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2864-maximum-odd-binary-number](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2864-maximum-odd-binary-number) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1386-cinema-seat-allocation) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1927-sum-game](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1563-stone-game-v) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1927-sum-game](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2029-stone-game-ix) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -710,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2029-stone-game-ix) |
 ## Tree
 |  |
