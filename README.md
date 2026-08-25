@@ -483,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1020-number-of-enclaves) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2685-count-the-number-of-complete-components) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0785-is-graph-bipartite) |
 | [0872-leaf-similar-trees](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0938-range-sum-of-bst) |
 | [1020-number-of-enclaves](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1020-number-of-enclaves) |
@@ -863,4 +867,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-design-an-ordered-stream](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1656-design-an-ordered-stream) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
