@@ -1,32 +1,30 @@
 class Solution {
-    int[][] nums;
-    Boolean[] ans;
-    int n;
     public List<Integer> eventualSafeNodes(int[][] nums) {
-        this.nums = nums;
-        this.n = nums.length;
-        this.ans = new Boolean[n];
-        for(int i = 0; i < n; i++){
-            if(ans[i] != null) continue;
-            find(i);
+        List<List<Integer>> arr = new ArrayList<>();
+        int v = nums.length;
+        for(int i = 0; i < v; i++) arr.add(new ArrayList<>());
+        Queue<Integer> q = new ArrayDeque<>();
+        int[] val = new int[v];
+        Stack<Integer> s = new Stack<>();
+        List<Integer> ans = new ArrayList<>();
+        for(int i = 0; i < v; i++){
+            for(int m : nums[i]) arr.get(m).add(i);
         }
-        List<Integer> aa = new ArrayList<>();
-        for(int i = 0; i < n; i++){
-            if(ans[i]) aa.add(i);
+        for(int i = 0; i < v; i++){
+            val[i] = nums[i].length;
         }
-        return aa;
-    }
-    private void find(int i){
-        if(nums[i].length == 0){
-            ans[i] = true;
-            return;
+        for(int i = 0; i < v; i++){
+            if(val[i] == 0) q.offer(i);
         }
-        if(ans[i] != null) return;
-        ans[i] = false;
-        for(int m : nums[i]){
-            find(m);
-            if(!ans[m]) return;
+        while(!q.isEmpty()){
+            int n = q.poll();
+            s.push(n);
+            for(int m : arr.get(n)){
+                if(--val[m] == 0) q.offer(m);
+            }
         }
-        ans[i] = true;
+        while(!s.isEmpty()) ans.add(s.pop());
+        Collections.sort(ans);
+        return ans;
     }
 }
