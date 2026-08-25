@@ -1,14 +1,15 @@
 class Solution {
     public boolean isBipartite(int[][] nums) {
         int n = nums.length;
+        int[] arr = new int[n];
+        Arrays.fill(arr, -1);
         for(int i = 0; i < n; i++){
-            int[] arr = new int[n];
-            Arrays.fill(arr, -1);
-            Queue<Integer> q = new ArrayDeque<>();
-            q.offer(i);
+            if(arr[i] != -1) continue;
+            Stack<Integer> q = new Stack<>();
+            q.push(i);
             arr[i] = 0;
             while(!q.isEmpty()){
-                int nn = q.poll();
+                int nn = q.pop();
                 int a = arr[nn];
                 for(int m : nums[nn]){
                     if(arr[m] != -1){
@@ -17,10 +18,11 @@ class Solution {
                     }
                     int b = (a == 0) ? 1 : 0;
                     arr[m] = b;
-                    q.offer(m);
+                    q.push(m);
                 }
             }
         }
+
         return true; 
     }
 }
