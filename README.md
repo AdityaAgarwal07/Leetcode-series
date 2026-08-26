@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2864-maximum-odd-binary-number](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2864-maximum-odd-binary-number) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
