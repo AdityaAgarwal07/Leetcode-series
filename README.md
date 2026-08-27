@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1048-longest-string-chain) |
 | [1260-shift-2d-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1266-minimum-time-visiting-all-points) |
+| [1267-count-servers-that-communicate](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1301-number-of-paths-with-max-score) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1267-count-servers-that-communicate) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1463-cherry-pickup-ii) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1937-maximum-number-of-points-with-cost) |
@@ -616,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0938-range-sum-of-bst) |
 | [1020-number-of-enclaves](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1267-count-servers-that-communicate) |
 | [1367-linked-list-in-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1367-linked-list-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -693,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1267-count-servers-that-communicate) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2029-stone-game-ix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
