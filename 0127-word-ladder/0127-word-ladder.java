@@ -22,6 +22,7 @@ class Solution {
                 char cc = s.charAt(i);
                 for(int j = 0; j < 26; j++){
                     char c = (char) (j + 'a');
+                    if(c == cc) continue;
                     sb.setCharAt(i, c);
                     String a = sb.toString();
                     if(set.contains(a)){
