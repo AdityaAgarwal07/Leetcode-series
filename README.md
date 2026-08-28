@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0141-linked-list-cycle) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0140-word-break-ii) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0127-word-ladder](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0200-number-of-islands) |
@@ -934,4 +937,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
