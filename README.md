@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2942-find-words-containing-character](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2942-find-words-containing-character) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2974-minimum-number-game) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2706-buy-two-chocolates](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2706-buy-two-chocolates) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2974-minimum-number-game](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2974-minimum-number-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3024-type-of-triangle](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3024-type-of-triangle) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
