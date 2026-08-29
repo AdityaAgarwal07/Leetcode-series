@@ -20,8 +20,8 @@ class Solution {
             if (!ans && c < cc) continue;
             nums[c - 'a']--;
             sb.append(c);
-            boolean newAns = ans || c > cc;
-            if (find(i + 1, newAns)) return true;
+            boolean aa = ans || c > cc;
+            if (find(i + 1, aa)) return true;
             sb.deleteCharAt(sb.length() - 1);
             nums[c - 'a']++;
         }
