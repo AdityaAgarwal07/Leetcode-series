@@ -1,39 +1,30 @@
 class Solution {
+    String t;
+    StringBuilder sb;
+    int[] nums;
+    int n;
     public String lexGreaterPermutation(String s, String target) {
-        int n = s.length();
-        int[] cnt = new int[26];
-        for (char c : s.toCharArray()) cnt[c - 'a']++;
-
-        for (int i = n - 1; i >= 0; i--) {
-            int[] freq = cnt.clone();
-            boolean possible = true;
-            for (int j = 0; j < i; j++) {
-                int c = target.charAt(j) - 'a';
-                if (freq[c] == 0) {
-                    possible = false;
-                    break;
-                }
-                freq[c]--;
-            }
-            if (!possible) {
-                continue;
-            }
-            int cur = target.charAt(i) - 'a';
-            for (int c = cur + 1; c < 26; c++) {
-                if (freq[c] == 0) continue;
-                StringBuilder ans = new StringBuilder(n);
-                ans.append(target, 0, i);
-                ans.append((char) ('a' + c));
-                freq[c]--;
-                for (int k = 0; k < 26; k++) {
-                    while (freq[k] > 0) {
-                        ans.append((char) ('a' + k));
-                        freq[k]--;
-                    }
-                }
-                return ans.toString();
-            }
-        }
+        t = target;
+        sb = new StringBuilder();
+        nums = new int[26];
+        for (char c : s.toCharArray()) nums[c - 'a']++;
+        n = t.length();
+        if (find(0, false))  return sb.toString();
         return "";
+    }
+    private boolean find(int i, boolean ans) {
+        if (i == n) return ans;
+        char cc = t.charAt(i);
+        for (char c = 'a'; c <= 'z'; c++) {
+            if (nums[c - 'a'] == 0) continue;
+            if (!ans && c < cc) continue;
+            nums[c - 'a']--;
+            sb.append(c);
+            boolean newAns = ans || c > cc;
+            if (find(i + 1, newAns)) return true;
+            sb.deleteCharAt(sb.length() - 1);
+            nums[c - 'a']++;
+        }
+        return false;
     }
 }
