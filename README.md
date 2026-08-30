@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2706-buy-two-chocolates](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2864-maximum-odd-binary-number) |
