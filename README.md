@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0516-longest-palindromic-subsequence) |
 | [0606-construct-string-from-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0606-construct-string-from-binary-tree) |
 | [0680-valid-palindrome-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0680-valid-palindrome-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0925-long-pressed-name](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0929-unique-email-addresses) |
 | [0953-verifying-an-alien-dictionary](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0953-verifying-an-alien-dictionary) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0741-cherry-pickup) |
 | [0877-stone-game](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0877-stone-game) |
@@ -957,4 +959,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0127-word-ladder) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 <!---LeetCode Topics End-->
