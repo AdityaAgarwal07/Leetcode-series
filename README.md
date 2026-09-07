@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0925-long-pressed-name](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0929-unique-email-addresses) |
+| [0940-distinct-subsequences-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0940-distinct-subsequences-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0953-verifying-an-alien-dictionary) |
 | [1048-longest-string-chain](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0741-cherry-pickup) |
 | [0877-stone-game](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0931-minimum-falling-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1025-divisor-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1048-longest-string-chain) |
