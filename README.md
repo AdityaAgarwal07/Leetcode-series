@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0741-cherry-pickup) |
+| [0835-image-overlap](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0881-boats-to-save-people) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0741-cherry-pickup) |
+| [0835-image-overlap](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1020-number-of-enclaves) |
