@@ -3,12 +3,6 @@ class Solution {
     final int n = s.length();
     // dp[i] := the maximum number of substrings in the first i chars of s
     int[] dp = new int[n + 1];
-
-    // If a palindrome is a subString of another palindrome, then considering
-    // the longer palindrome won't increase the number of non-overlapping
-    // palindromes. So, we only need to consider the shorter one. Also,
-    // considering palindromes with both k length and k + 1 length ensures that
-    // we look for both even and odd length palindromes.
     for (int i = k; i <= n; ++i) {
       dp[i] = dp[i - 1];
       // Consider palindrome with length k.
