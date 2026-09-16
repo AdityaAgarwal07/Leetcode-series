@@ -1002,4 +1002,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
