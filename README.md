@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3525-find-x-value-of-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3454-separate-squares-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3454-separate-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3525-find-x-value-of-array-ii) |
 ## Sweep Line
 |  |
 | ------- |
