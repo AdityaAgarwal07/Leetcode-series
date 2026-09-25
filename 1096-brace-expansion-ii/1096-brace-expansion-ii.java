@@ -1,11 +1,9 @@
 class Solution {
     private TreeSet<String> s = new TreeSet<>();
-
     public List<String> braceExpansionII(String expression) {
         dfs(expression);
         return new ArrayList<>(s);
     }
-
     private void dfs(String exp) {
         int j = exp.indexOf('}');
         if (j == -1) {
