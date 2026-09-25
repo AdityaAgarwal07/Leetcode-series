@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0953-verifying-an-alien-dictionary) |
 | [0997-find-the-town-judge](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1092-shortest-common-supersequence) |
+| [1096-brace-expansion-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1408-string-matching-in-an-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1408-string-matching-in-an-array) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -561,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1020-number-of-enclaves) |
+| [1096-brace-expansion-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1096-brace-expansion-ii) |
 | [1267-count-servers-that-communicate](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1267-count-servers-that-communicate) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -826,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0257-binary-tree-paths) |
+| [1096-brace-expansion-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Brainteaser
 |  |
