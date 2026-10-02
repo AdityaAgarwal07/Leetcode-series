@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1096-brace-expansion-ii) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1267-count-servers-that-communicate) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0938-range-sum-of-bst) |
 | [1020-number-of-enclaves](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1020-number-of-enclaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1267-count-servers-that-communicate) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1367-linked-list-in-binary-tree) |
@@ -894,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0938-range-sum-of-bst) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1367-linked-list-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -948,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0938-range-sum-of-bst) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1367-linked-list-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
