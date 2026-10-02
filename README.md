@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1872-stone-game-viii) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1937-maximum-number-of-points-with-cost) |
+| [1975-maximum-matrix-sum](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1927-sum-game](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1927-sum-game) |
+| [1975-maximum-matrix-sum](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1975-maximum-matrix-sum) |
 | [2029-stone-game-ix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1463-cherry-pickup-ii) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1937-maximum-number-of-points-with-cost) |
+| [1975-maximum-matrix-sum](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1975-maximum-matrix-sum) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3286-find-a-safe-walk-through-a-grid) |
