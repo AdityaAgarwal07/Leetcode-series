@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0072-edit-distance) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0063-unique-paths-ii) |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0022-generate-parentheses) |
 | [0126-word-ladder-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0257-binary-tree-paths) |
@@ -1055,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
