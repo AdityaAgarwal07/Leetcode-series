@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0424-longest-repeating-character-replacement) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0463-island-perimeter) |
@@ -859,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Brainteaser
