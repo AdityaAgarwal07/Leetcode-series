@@ -2,7 +2,6 @@ class Solution {
     private String s;
     private int n;
     private Set<String> ans = new HashSet<>();
-
     public List<String> removeInvalidParentheses(String s) {
         this.s = s;
         this.n = s.length();
@@ -21,7 +20,6 @@ class Solution {
         dfs(0, l, r, 0, 0, "");
         return new ArrayList<>(ans);
     }
-
     private void dfs(int i, int l, int r, int lcnt, int rcnt, String t) {
         if (i == n) {
             if (l == 0 && r == 0) {
