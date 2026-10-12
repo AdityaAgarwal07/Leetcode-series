@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0347-top-k-frequent-elements) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0234-palindrome-linked-list) |
 | [1367-linked-list-in-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1367-linked-list-in-binary-tree) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -1000,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0303-range-sum-query-immutable) |
 | [1656-design-an-ordered-stream](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1656-design-an-ordered-stream) |
@@ -1110,4 +1113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
