@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1020-number-of-enclaves) |
 | [1043-partition-array-for-maximum-sum](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1048-longest-string-chain) |
+| [1254-number-of-closed-islands](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1266-minimum-time-visiting-all-points) |
 | [1267-count-servers-that-communicate](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1267-count-servers-that-communicate) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1267-count-servers-that-communicate) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -664,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1301-number-of-paths-with-max-score) |
@@ -763,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0938-range-sum-of-bst) |
 | [1020-number-of-enclaves](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1267-count-servers-that-communicate) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1367-linked-list-in-binary-tree) |
