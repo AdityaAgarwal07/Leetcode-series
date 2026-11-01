@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0929-unique-email-addresses](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0929-unique-email-addresses) |
 | [0953-verifying-an-alien-dictionary](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0953-verifying-an-alien-dictionary) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1096-brace-expansion-ii) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0929-unique-email-addresses) |
 | [0931-minimum-falling-path-sum](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0931-minimum-falling-path-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0953-verifying-an-alien-dictionary) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0997-find-the-town-judge) |
@@ -1152,4 +1154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/1390-four-divisors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AdityaAgarwal07/Leetcode-series/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
